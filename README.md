@@ -1,2 +1,3 @@
-# fake-news
-Project FakeNews for Data Science and Big Data at UNAL
+Fake-news
+
+Preprocessing \ [[Github]](https://github.com/fake-news-unal/fake-news/blob/main/preprocessing.ipynb) \ [[nbviewer]](https://nbviewer.jupyter.org/github/fake-news-unal/fake-news/blob/main/preprocessing.ipynb) 
