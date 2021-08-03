@@ -1,6 +1,12 @@
 # Proyecto para detección de Fake-news
+  
+**Presentación del proyecto** \ [Github](https://github.com/fake-news-unal/fake-news/blob/main/presentation/presentation.pdf)  
+  
+  
 
 La información del dataset usado en este proyecto se puede encontar en [https://www.uvic.ca/engineering/ece/isot/assets/docs/ISOT_Fake_News_Dataset_ReadMe.pdf](https://www.uvic.ca/engineering/ece/isot/assets/docs/ISOT_Fake_News_Dataset_ReadMe.pdf)  
+  
+
 
 
 - Preprocesamiento \ [[Github]](https://github.com/fake-news-unal/fake-news/blob/main/preprocessing.ipynb) \ [[nbviewer]](https://nbviewer.jupyter.org/github/fake-news-unal/fake-news/blob/main/preprocessing.ipynb) 
